@@ -9,6 +9,8 @@ Let's start with my github repos and sites:
 
 * [LFS 10 final documents and files.](https://github.com/TheAlmostGenius/LFS-10)
 
+* [DarkestSoul1992 - My alter for gaming. Official website.](https://thealmostgenius.github.io/DarkestSoul1992)
+
 
 Now my social media:
 
