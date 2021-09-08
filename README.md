@@ -12,10 +12,10 @@ Let's start with my github repos and sites:
 
 Now my social media:
 
-* Discord: DarkestSoul1992#2573
+* Discord: [DarkestSoul1992#2573](https://discord.gg/qgn6EWK)
 
 * Twitch, YouTube, Xbox, Steam: DarkestSoul1992
 
-* Twitter: @TheAlmostGenius
+* Twitter: [@TheAlmostGenius](https://twitter.com/TheAlmostGenius)
 
-* Facebook: @DarkestSoul1992
+* Facebook: [@DarkestSoul1992](https://www.facebook.com/DarkestSoul1992)
