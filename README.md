@@ -27,3 +27,8 @@ Now my social media:
 * Twitter: [@TheAlmostGenius](https://twitter.com/TheAlmostGenius)
 
 * Facebook: [@DarkestSoul1992](https://www.facebook.com/DarkestSoul1992)
+
+
+# footer
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> - Captain Janeway
