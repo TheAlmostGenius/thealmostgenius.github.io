@@ -2,8 +2,7 @@
 
 Main website for all of my endeavours. Think of it as a jump portal to my other pages/sites/social media.
 
-
-Let's start with my github repos and sites:
+# Let's start with my github repos and sites:
 
 * [TheAlmostGenius' N++ custom languages.](https://github.com/TheAlmostGenius/Npp-Custom-Languages)
 
@@ -11,8 +10,7 @@ Let's start with my github repos and sites:
 
 * [DarkestSoul1992 - My alter for gaming. Official website.](https://thealmostgenius.github.io/DarkestSoul1992)
 
-
-Now my social media:
+# Social media:
 
 * Discord: [DarkestSoul1992#2573](https://discord.gg/qgn6EWK)
 
@@ -28,7 +26,6 @@ Now my social media:
 
 * Facebook: [@DarkestSoul1992](https://www.facebook.com/DarkestSoul1992)
 
-
-# footer
+# Favourite quotes.
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
