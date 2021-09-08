@@ -14,7 +14,13 @@ Now my social media:
 
 * Discord: [DarkestSoul1992#2573](https://discord.gg/qgn6EWK)
 
-* Twitch, YouTube, Xbox, Steam: DarkestSoul1992
+* Twitch: [DarkestSoul1992](https://www.twitch.tv/DarkestSoul1992)
+
+* YouTube: [DarkestSoul1992](https://www.youtube.com/channel/UCnXoO1DKoZCXb-u_jes5YVQ)
+
+* Xbox: DarkestSoul1992
+
+* Steam: [DarkestSoul1992](https://steamcommunity.com/id/DarkestSoul1992/)
 
 * Twitter: [@TheAlmostGenius](https://twitter.com/TheAlmostGenius)
 
