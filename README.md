@@ -26,6 +26,7 @@ Main website for all of my endeavours. Think of it as a jump portal to my other 
 
 * Facebook: [@DarkestSoul1992](https://www.facebook.com/DarkestSoul1992)
 
-# Favourite quotes.
+# Favourite quotes:
+
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
