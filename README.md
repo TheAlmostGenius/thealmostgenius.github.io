@@ -1,3 +1,3 @@
-# DarkestSoul1992
+# TheAlmostGenius
 
-Main website for my gaming/streaming endeavours.
+Main website for all of my endeavours. Think of it as a jump portal to my other pages/sites/social media.
