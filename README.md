@@ -15,7 +15,7 @@ Main website for all of my endeavours. Think of it as a jump portal to my other 
 * Twitter: [@TheAlmostGenius](https://twitter.com/TheAlmostGenius)
 * Facebook: [@DarkestSoul1992](https://www.facebook.com/DarkestSoul1992)
 
-:seenoevil: :hearnoevil: :speaknoevil:
+:see_no_evil: :hear_no_evil: :speak_no_evil:
 
 # Favourite quotes:
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
