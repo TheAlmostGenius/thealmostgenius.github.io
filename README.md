@@ -4,7 +4,7 @@ Main website for all of my endeavours. Think of it as a jump portal to my other 
 # Let's start with my github repos and sites:
 * [TheAlmostGenius' N++ custom languages.](https://github.com/TheAlmostGenius/Npp-Custom-Languages)
 * [LFS 10 final documents and files.](https://github.com/TheAlmostGenius/LFS-10)
-* [DarkestSoul1992 - My alter for gaming. Official website.](https://thealmostgenius.github.io/DarkestSoul1992)
+* DarkestSoul1992 - My alter for gaming. Official website. (Coming soon...)
 
 # Social media:
 * Discord: [DarkestSoul1992#2573](https://discord.gg/qgn6EWK)
