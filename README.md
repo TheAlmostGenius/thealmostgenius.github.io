@@ -10,7 +10,7 @@ Main website for all of my endeavours. Think of it as a jump portal to my other 
 * Discord: [DarkestSoul1992#2573](https://discord.gg/qgn6EWK)
 * Twitch: [DarkestSoul1992](https://www.twitch.tv/DarkestSoul1992)
 * YouTube: [DarkestSoul1992](https://www.youtube.com/channel/UCnXoO1DKoZCXb-u_jes5YVQ)
-* Xbox: DarkestSoul1992
+* Xbox: [DarkestSoul1992](https://account.xbox.com/en-gb/profile?gamertag=DarkestSoul1992)
 * Steam: [DarkestSoul1992](https://steamcommunity.com/id/DarkestSoul1992/)
 * Twitter: [@TheAlmostGenius](https://twitter.com/TheAlmostGenius)
 * Facebook: [@DarkestSoul1992](https://www.facebook.com/DarkestSoul1992)
