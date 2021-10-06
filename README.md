@@ -2,9 +2,9 @@
 Main website for all of my endeavours. Think of it as a jump portal to my other pages/sites/social media.
 
 # My servers
-[Teamspeak3](https://invite.teamspeak.com/darkestsoul1992.servegame.com/?password=Freunde&channel=Public&token=VoRxfoDIwY%2BUo7aWLyNF4ncctz69cUxg%2BSuHIEoV&server_uid=RvrU44dcNTy3ObtvRsBwti6rhFM%3D)
-Minecraft: darkestsoul1992.servegame.com
-Insurgency: Sandstorm: [UK] Darkest Server
+* [Teamspeak3](https://invite.teamspeak.com/darkestsoul1992.servegame.com/?password=Freunde&channel=Public&token=VoRxfoDIwY%2BUo7aWLyNF4ncctz69cUxg%2BSuHIEoV&server_uid=RvrU44dcNTy3ObtvRsBwti6rhFM%3D)
+* Minecraft: darkestsoul1992.servegame.com
+* Insurgency: Sandstorm: [UK] Darkest Server
 
 # Let's start with my github repos and sites:
 * [TheAlmostGenius' N++ custom languages.](https://github.com/TheAlmostGenius/Npp-Custom-Languages)
