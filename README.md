@@ -1,8 +1,10 @@
 # TheAlmostGenius
 Main website for all of my endeavours. Think of it as a jump portal to my other pages/sites/social media.
 
+# My Projects
+* A 65(C)02 based WorkBench Computer: [WN-6502-WBC](https://thealmostgenius.geekgalaxy.com/WolfNet-6502-WBC)
+
 # My servers
-* [Teamspeak3](https://invite.teamspeak.com/darkestsoul1992.servegame.com/?password=Freunde&channel=Public&token=VoRxfoDIwY%2BUo7aWLyNF4ncctz69cUxg%2BSuHIEoV&server_uid=RvrU44dcNTy3ObtvRsBwti6rhFM%3D)
 * Minecraft: darkestsoul1992.servegame.com
 * Insurgency: Sandstorm: [UK] Darkest Server
 
