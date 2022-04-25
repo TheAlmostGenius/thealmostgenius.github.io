@@ -3,14 +3,14 @@ Main website for all of my endeavours. Think of it as a jump portal to my other 
 
 # My Projects
 * A 65(C)02 based WorkBench Computer: [WN-6502-WBC](https://thealmostgenius.geekgalaxy.com/WolfNet-6502-WBC)
+* My [N++ custom languages](https://github.com/TheAlmostGenius/Npp-Custom-Languages) for 6502 processors.
+* Compiled build instructions for [LFS 10](https://github.com/TheAlmostGenius/LFS-10). (MIRROR OF OFFICIAL REPO!)
 
 # My servers
 * Minecraft: darkestsoul1992.servegame.com
 * Insurgency: Sandstorm: [UK] Darkest Server
 
-# Let's start with my github repos and sites:
-* [TheAlmostGenius' N++ custom languages.](https://github.com/TheAlmostGenius/Npp-Custom-Languages)
-* [LFS 10 final documents and files.](https://github.com/TheAlmostGenius/LFS-10)
+# Let's start with my sites:
 * DarkestSoul1992 - My alter for gaming. Official website. (Coming soon...)
 
 # Social media:
